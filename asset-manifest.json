@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.js": "/grid-testimonials-app/static/js/main.da071040.chunk.js",
+    "main.js.map": "/grid-testimonials-app/static/js/main.da071040.chunk.js.map",
+    "runtime-main.js": "/grid-testimonials-app/static/js/runtime-main.39e8fe43.js",
+    "runtime-main.js.map": "/grid-testimonials-app/static/js/runtime-main.39e8fe43.js.map",
+    "static/js/2.0721c95d.chunk.js": "/grid-testimonials-app/static/js/2.0721c95d.chunk.js",
+    "static/js/2.0721c95d.chunk.js.map": "/grid-testimonials-app/static/js/2.0721c95d.chunk.js.map",
+    "index.html": "/grid-testimonials-app/index.html",
+    "static/js/2.0721c95d.chunk.js.LICENSE.txt": "/grid-testimonials-app/static/js/2.0721c95d.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.39e8fe43.js",
+    "static/js/2.0721c95d.chunk.js",
+    "static/js/main.da071040.chunk.js"
+  ]
+}
