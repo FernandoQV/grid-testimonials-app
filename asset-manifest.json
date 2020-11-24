@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.js": "/grid-testimonials-app/static/js/main.da071040.chunk.js",
-    "main.js.map": "/grid-testimonials-app/static/js/main.da071040.chunk.js.map",
+    "main.js": "/grid-testimonials-app/static/js/main.7d220a86.chunk.js",
+    "main.js.map": "/grid-testimonials-app/static/js/main.7d220a86.chunk.js.map",
     "runtime-main.js": "/grid-testimonials-app/static/js/runtime-main.39e8fe43.js",
     "runtime-main.js.map": "/grid-testimonials-app/static/js/runtime-main.39e8fe43.js.map",
     "static/js/2.0721c95d.chunk.js": "/grid-testimonials-app/static/js/2.0721c95d.chunk.js",
@@ -12,6 +12,6 @@
   "entrypoints": [
     "static/js/runtime-main.39e8fe43.js",
     "static/js/2.0721c95d.chunk.js",
-    "static/js/main.da071040.chunk.js"
+    "static/js/main.7d220a86.chunk.js"
   ]
 }
