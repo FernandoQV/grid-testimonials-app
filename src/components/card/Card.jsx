@@ -6,7 +6,7 @@ const Card = (props) => {
     return (
     <WpCard Bg={bg} grid={grid}>
             <WpName>
-                <Image src={image}/>
+                <Image src={process.env.PUBLIC_URL+image}/>
                 <Title dark={dark}>{name}<br/>
     <SubTitle dark={dark}>{subtitle}</SubTitle>
                 </Title>
