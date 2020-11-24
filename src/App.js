@@ -1,8 +1,12 @@
-
+import { Global } from "./helpers/GlobalStyles";
+import ListCardUser from './components/listCard/ListCard'
 
 function App() {
   return (
-    <h1>Incio de desafio</h1>
+    <>
+    <Global/>
+    <ListCardUser/>
+    </>
   );
 }
 
